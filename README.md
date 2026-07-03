@@ -18,7 +18,7 @@ For 90% of videos, the app will download perfectly out-of-the-box without requir
 
 ---
 
-# Hướng dẫn sử dụng (Tiếng Việt)
+# Hướng dẫn sử dụng 
 
 Ứng dụng tải nhạc MP3 hàng loạt từ YouTube với giao diện trực quan, tốc độ cao (đa luồng) và có sẵn cơ chế vượt rào chặn bot của YouTube.
 
