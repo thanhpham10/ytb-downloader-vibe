@@ -35,3 +35,4 @@ Với 90% các video bình thường, ứng dụng sẽ tải trơn tru mà khô
 3. Bấm vào icon của tiện ích để tải file cookie về máy.
 4. Đảm bảo file được đặt tên là `cookies.txt` và di chuyển nó vào **nằm chung thư mục** với file ứng dụng `YtMp3Downloader.exe`.
 5. Khởi động lại ứng dụng và bắt đầu tải xuống (phần mềm sẽ tự động nhận diện tài khoản của bạn thông qua file text đó).
+"# ytb-downloader-vibe" 
