@@ -1,0 +1,18 @@
+# Bỏ qua các thư mục sinh ra khi build exe
+build/
+dist/
+*.spec
+
+# Bỏ qua file cookies cá nhân
+cookies.txt
+
+# Bỏ qua thư mục cache của Python
+__pycache__/
+*.py[cod]
+
+# Bỏ qua môi trường ảo (nếu có dùng)
+venv/
+env/
+
+# skip file exe
+abs/
