@@ -1,3 +1,7 @@
+### install all requirements in requirements.txt
+### cài đặt tất cả file cần thiết trong requirements.txt
+
+
 # YouTube MP3 Downloader 🎵
 
 A bulk YouTube to MP3 downloader with an intuitive UI, fast multi-threaded downloads, and built-in bypasses for YouTube's bot detection.
@@ -7,7 +11,7 @@ A bulk YouTube to MP3 downloader with an intuitive UI, fast multi-threaded downl
 2. Open the app, paste your YouTube links (one per line).
 3. Select your save directory and click **Let's go**.
 
-## 🍪 Advanced: Fixing Download Errors (Age-Restricted, Bot Captcha)
+## 🍪 Advanced: Fixing Download Errors 
 For 90% of videos, the app will download perfectly out-of-the-box without requiring any setup. However, if you encounter a download error (e.g. for age-restricted videos, members-only videos, or strict bot checks), you need to provide your YouTube cookies:
 
 1. Install the **Get cookies.txt LOCALLY** extension for your browser (Chrome, Edge, or Firefox).
@@ -27,7 +31,7 @@ For 90% of videos, the app will download perfectly out-of-the-box without requir
 2. Mở ứng dụng lên, dán link YouTube cần tải (mỗi link 1 dòng).
 3. Chọn thư mục lưu (Save) và nhấn nút **Let's go**.
 
-## 🍪 Nâng cao: Khắc phục lỗi không tải được (Video 18+, Bắt xác minh)
+## 🍪 Nâng cao: Khắc phục lỗi không tải được
 Với 90% các video bình thường, ứng dụng sẽ tải trơn tru mà không cần thiết lập gì thêm. Nhưng nếu bạn gặp lỗi với các video giới hạn độ tuổi (18+), video hội viên kín (Private), hoặc IP bị YouTube đưa vào diện nghi ngờ bot, bạn cần làm thêm bước sau:
 
 1. Cài đặt tiện ích mở rộng **Get cookies.txt LOCALLY** trên trình duyệt Chrome, Edge, hoặc Firefox của bạn.
